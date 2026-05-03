@@ -1,4 +1,4 @@
-# 🤖 ROS 2 Workspace Template (colcon + ament_python)
+# 🤖 ROS 2 Workspace Template
 
 This is a reusable ROS 2 workspace template designed for scalable
 robotics development using:
